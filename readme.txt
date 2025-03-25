@@ -1,4 +1,4 @@
-==== Superpay BD payment Gateway ====
+==== NullPay BD payment Gateway ====
 Contributors: Nullphpscript 
 Tags: Null PAY BD, bdpaymentgateway, payment, gateway, bkash, rocket, nagad, upay, cellfin, paypal, stripe, paddle, perfectmoney
 Requires at least: 5.2
