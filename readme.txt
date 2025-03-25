@@ -15,7 +15,7 @@ NullPay BD Plugin for WooCommerce.
 NullPay BD WooCommerce Plugin. You can receive payment through your personal account with Automation.
 
 
-* [Life Demo](https://pay.nullphpscript.eu.org)
+* [Live Demo](https://pay.nullphpscript.eu.org)
 * [Need Help?](https://wa.me/01775556073)
 
 
